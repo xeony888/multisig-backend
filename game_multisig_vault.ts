@@ -5,7 +5,7 @@
  * IDL can be found at `target/idl/game_multisig_vault.json`.
  */
 export type GameMultisigVault = {
-  "address": "Dfy3ZqRoiNyfi3YCU3SiQRjFtjMderffymz8vg2NQLAC",
+  "address": "57viD8LPeBtGcfVrNvkBnGa71bwv4AcZv9dEDXrfaEai",
   "metadata": {
     "name": "gameMultisigVault",
     "version": "0.1.0",
